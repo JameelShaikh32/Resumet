@@ -17,6 +17,7 @@
 - Courses Recommendations
 - Skills Recommendations
 - Youtube video recommendations
+- Currently supports only pdf file.
 
 ## Usage
 - Install the Python between this versions 3.6 - 3.9.3 or install the given python setup file in this repo.
