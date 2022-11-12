@@ -7,7 +7,7 @@ plotly==5.11.0
 PyMySQL==1.0.2
 pyresparser==1.0.6
 spacy==2.3.5
-en_core_web_sm
+en_core_web_sm==2.3.1
 streamlit==1.14.0
 streamlit_tags==1.2.8
 youtube-dl
