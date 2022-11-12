@@ -334,7 +334,7 @@ def run():
         ad_password = st.text_input("Password", type='password')
         if st.button('Login'):
             if ad_user == 'resume_analyzer' and ad_password == '#resumeT123':
-                st.success("Welcome Jameel")
+                st.success("Welcome Admin")
                 # Display Data
                 cursor.execute('''SELECT  * FROM user_data''')
                 data = cursor.fetchall()
