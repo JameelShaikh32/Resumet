@@ -3,6 +3,8 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                 
 [![Python 3.6](https://img.shields.io/badge/python-3.9-blue.svg)](https://www.python.org/downloads/release/python-390/)   
 
+<img src="https://github.com/JameelShaikh32/Resumet/blob/main/banner.png">
+
 ## Source
 - Extracting user's information from the Resume, I used [PyResparser](https://omkarpathak.in/pyresparser/)
 - Extracting Resume PDF into Text, I used [PDFMiner](https://pypi.org/project/pdfminer/).
@@ -40,10 +42,10 @@
 ## Screenshots
 
 ## User side
-<img src="https://github.com/Spidy20/Smart_Resume_Analyser_App/blob/master/sc1.png">
+<img src="https://github.com/JameelShaikh32/Resumet/blob/main/normal_user-page.png">
 
 ## Admin Side
-<img src="https://github.com/Spidy20/Smart_Resume_Analyser_App/blob/master/sc2.png">
+<img src="https://github.com/JameelShaikh32/Resumet/blob/main/admin-page.png">
 
 
 ## Just follow☝️ me and Star⭐ my repository 
