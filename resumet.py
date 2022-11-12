@@ -19,6 +19,8 @@ import spacy
 import nltk
 
 nltk.download('stopwords')
+
+
 spacy.load('en_core_web_sm')
 
 def fetch_yt_video(link):
