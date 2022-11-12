@@ -333,7 +333,7 @@ def run():
         ad_user = st.text_input("Username")
         ad_password = st.text_input("Password", type='password')
         if st.button('Login'):
-            if ad_user == 'jameelshaikh' and ad_password == '#resumeT786':
+            if ad_user == 'resume_analyzer' and ad_password == '#resumeT123':
                 st.success("Welcome Jameel")
                 # Display Data
                 cursor.execute('''SELECT  * FROM user_data''')
