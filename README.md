@@ -37,7 +37,7 @@
   py -m streamlit run resumet.py
   ```
 - `uploaded_resumes` folder is contaning the user's uploaded resumes.
-- For more explanation of this project see the tutorial on Machine Learning Hub YouTube channel.
+
 - Admin side credentials is `resume_analyzer` and password is `#resumeT123`. 
 
 ## Screenshots
