@@ -1,3 +1,4 @@
+python -m pip install --upgrade pip
 pdfminer3
 streamlit
 pandas
