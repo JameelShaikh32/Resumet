@@ -84,7 +84,7 @@ def insert_data(name,email,res_score,timestamp,no_of_pages,reco_field,cand_level
 
 st.set_page_config(
    page_title="Resumet - Resume Analyzer",
-   page_icon='./Logo/resumet-favicon.png',
+   page_icon='./logo/resumet-favicon.png',
 )
 
 hide_st_style = """
@@ -101,7 +101,7 @@ def run():
     activities = ["Normal User", "Admin"]
     
     choice = st.sidebar.selectbox("Choose among the given options:", activities)
-    img = Image.open('./Logo/resumet-logo.png')
+    img = Image.open('./logo/resumet-logo.png')
     img = img.resize((150,150))
     st.image(img)
     st.title("Resume Analyser")
