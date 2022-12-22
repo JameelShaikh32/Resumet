@@ -71,7 +71,7 @@ def course_recommender(course_list):
             break
     return rec_course
 
-connection = pymysql.connect(host='sql12.freesqldatabase.com',user='sql12566799',password='zd6hFsyHWd',db='sql12566799',port=3306)
+connection = pymysql.connect(host='localhost',user='root',password='8898',db='resumet',port=3300)
 cursor = connection.cursor()
 
 def insert_data(name,email,res_score,timestamp,no_of_pages,reco_field,cand_level,skills,recommended_skills,courses):
