@@ -1,8 +1,8 @@
-/home/appuser/venv/bin/python -m pip install --upgrade pip
+--upgrade pip
 pdfminer3
 streamlit
 pandas
-https://github.com/Cupcakus/pafy
+git+https://github.com/Cupcakus/pafy
 plotly
 pymysql
 streamlit-tags
