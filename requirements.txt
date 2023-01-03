@@ -1,7 +1,7 @@
 pdfminer3
 streamlit
 pandas
-git+https://github.com/Cupcakus/pafy
+https://github.com/Cupcakus/pafy
 plotly
 pymysql
 streamlit-tags
