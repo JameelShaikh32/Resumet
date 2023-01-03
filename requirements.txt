@@ -6,7 +6,7 @@ plotly
 pymysql
 streamlit-tags
 Pillow
-youtube-dl-2021.12.17.tar
+https://github.com/ytdl-org/youtube-dl/releases/download/2021.12.17/youtube-dl-2021.12.17.tar.gz
 nltk
 spacy==2.3.5
 en_core_web_sm==2.3.1
